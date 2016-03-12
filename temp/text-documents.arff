@@ -1,0 +1,10 @@
+@relation text-documents
+
+@attribute Document-text string
+@attribute Classification {'Pro','Con','?'}
+
+@data
+'Oil platforms extract crude oil','?'
+'Canola oil is supposed to be healthy','?'
+'Iraq has signi cant oil reserves','?'
+'There are different types of cooking oil','?'

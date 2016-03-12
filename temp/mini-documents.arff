@@ -1,0 +1,12 @@
+@relation mini-documents
+
+@attribute Document-text string 
+@attribute Classification {'Pro','Con','?'}
+
+@data
+'The price of crude oil has increased significantly','Pro'
+'Demand for crude oil outstrips supply','Pro'
+'Some people do not like the flavor of olive oil','Con'
+'The food was very oily','Con'
+'Crude oil is in short supply','Pro'
+'Use a bit of cooking oil in the frying pan','Con'
